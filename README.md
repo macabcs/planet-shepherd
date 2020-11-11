@@ -1,2 +1,5 @@
 # planet-shepherd
 repository for the planet Shepherd project
+DESCRIPTION OF THE PROJECT :
+Planet Shepherd's idea came to me after a series of lectures at my university about environmental challenges and how we need to adapt and change our energy use and sourcing to reduce inequalities and mankind's negative climatic impact. The initial goal was to model the entire planet earth including a huge amount of data, so that the program could, with parameter inputs from users (aka scenarii) compute how to best use the different energy sources available to us : gas, wind, solar, hydrolic, geothermy... 
+It took a short time of reflection and a discussion with Pr.Berger (former Paris Diderot university president and physics researcher) to get to the conclusion that a full world simulation was a tad bit too ambitious for a group of students. Therefore we have decided to start with only parts of the world (the first objective being a fully functionnal model of France) to show (and see) that such a project can work and have a real world value. 
